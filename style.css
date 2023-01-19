@@ -1,0 +1,54 @@
+#titulo {
+    color: rgb(219, 230, 227);
+    font-family: system-ui, monospace;
+    text-align: center;
+    font-size: larger;
+}
+
+#foto {
+    float: left;
+    padding: 10px;
+    background-color: rgb(128, 138, 138);
+    margin: 20px;
+}
+
+#descricao {
+
+position: absolute;
+top: 350px;
+left: 550px;
+width: 48%;
+}
+
+#corpo {
+    top: auto;
+}
+
+body {
+    font-family: system-ui, sans-serif;
+    background-color: rgb(41, 37, 37);
+    color: rgb(211, 218, 224);
+    margin: 8%;
+}
+
+#trybe {
+    color: rgb(9, 160, 47);
+    text-decoration: none;
+}
+
+.lista {
+    color: rgb(107, 107, 119);
+}
+
+ul li:nth-child(odd) {
+    font-style: italic;
+}
+
+#youtube{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    padding: 3px;
+}
